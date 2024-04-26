@@ -43,7 +43,6 @@
   }
   
   .accordion {
-    color: black;
     border-radius: 0.3rem;
     overflow: hidden;
     width: 700px;
@@ -52,7 +51,7 @@
     right: 0;
     top: 30%;
     margin: auto;
-    background: rgb(14, 14, 14);
+    background: #000c13;
   }
   .tab__label,
   .tab__close {
